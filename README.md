@@ -49,29 +49,45 @@ Esc para Pausar o jogo
 
 Animais
 https://craftpix.net/freebies/free-street-animal-pixel-art-asset-pack/
+
 https://elthen.itch.io/2d-pixel-art-squirrel-sprites?download
+
 https://elthen.itch.io/2d-pixel-art-armadillo-sprites
+
 https://elthen.itch.io/2d-pixel-art-cobra-sprites
+
 https://elthen.itch.io/2d-pixel-art-fox-sprites?download
+
 https://elthen.itch.io/2d-pixel-art-hedgehog-sprites?download
 
 Robos
 https://craftpix.net/freebies/free-3-cyberpunk-characters-pixel-art/
+
 https://craftpix.net/freebies/free-city-enemies-pixel-art-sprite-sheets/
+
 https://trevor-pupkin.itch.io/tech-dungeon-roguelite
 
 Cenário
 https://craftpix.net/freebies/free-industrial-zone-tileset-pixel-art/
+
 https://craftpix.net/freebies/free-truck-constructor-pixel-art/
+
 https://craftpix.net/freebies/free-swamp-game-tileset-pixel-art/?num=1&count=7&sq=swamp&pos=5
+
 https://craftpix.net/freebies/free-green-zone-tileset-pixel-art/?num=1&count=1&sq=green%20zone&pos=0
 
 Trilhas sonoras
+
 https://freesound.org/people/FoolBoyMedia/sounds/530064/
+
 https://freesound.org/people/MATRIXXX_/sounds/506983/
+
 https://freesound.org/people/Sami_Hiltunen/sounds/625527/
+
 https://freesound.org/people/toxicityspb/sounds/493572/
+
 https://freesound.org/people/levelclearer/sounds/346200/
+
 https://freesound.org/people/Sirkoto51/sounds/443128/
 
 
