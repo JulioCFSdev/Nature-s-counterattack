@@ -11,6 +11,8 @@ In a world where there was a balance between humanity and nature, a new presence
 
 Em um mundo que havia o equilibrio entre a humanidade e a natureza, surgiu uma nova presença que abala o mundo. Os robos chegam ao mundo por meio de naves espaciais e dominam e subjulgam os humanos. Não contentes com apenas isso, decidem subjugar a natureza em si e dessa forma, ela retribui na mesma moeda. A mãe terra concede poderem mágicos a 7 escolhidos animais que tem a missão de acabar com a guerra dos robos. Mesmo com seus poderes incríveis, os robos ganham vantagem pela sua enorme quantidade, então os escolhidos caem pouco a pouco. Até que sobre apenas um escolhido, o cachorro Pilu. Será que Pilu é capaz de enfrentar as forçar dos robos e resgatar seus amigos?
 
+![image](https://user-images.githubusercontent.com/90019843/175879250-22a55e7b-9e8c-43ea-881c-28736b9ad57e.png)
+
 # Gameplay
 The game was developed in a Top-Down style, heavily influenced by the Bomberman Franchise, with mechanics of throwing bombs and blowing up enemies.
 
