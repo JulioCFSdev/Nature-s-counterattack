@@ -48,6 +48,7 @@ Esc para Pausar o jogo
 # Referências
 
 Animais
+
 https://craftpix.net/freebies/free-street-animal-pixel-art-asset-pack/
 
 https://elthen.itch.io/2d-pixel-art-squirrel-sprites?download
@@ -61,6 +62,7 @@ https://elthen.itch.io/2d-pixel-art-fox-sprites?download
 https://elthen.itch.io/2d-pixel-art-hedgehog-sprites?download
 
 Robos
+
 https://craftpix.net/freebies/free-3-cyberpunk-characters-pixel-art/
 
 https://craftpix.net/freebies/free-city-enemies-pixel-art-sprite-sheets/
@@ -68,6 +70,7 @@ https://craftpix.net/freebies/free-city-enemies-pixel-art-sprite-sheets/
 https://trevor-pupkin.itch.io/tech-dungeon-roguelite
 
 Cenário
+
 https://craftpix.net/freebies/free-industrial-zone-tileset-pixel-art/
 
 https://craftpix.net/freebies/free-truck-constructor-pixel-art/
